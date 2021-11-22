@@ -1,0 +1,29 @@
+.form * {
+  font-size: inherit;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.form input,
+.btn {
+  width: 100%;
+  padding: 1rem 2rem;
+  margin-bottom: 1rem;
+}
+
+.form label {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 576px) {
+  .form {
+    margin-top: 2rem;
+  }
+}
