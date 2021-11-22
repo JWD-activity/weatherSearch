@@ -5,7 +5,6 @@
 - Create a **WeatherForm** component that the user can enter the postcode.
 - Create an **Error** component that notifies the user of an error.
 - Create a **Result** component that displays current weather of location.
-- 
 ## My process
 ### Built with
 - HTML
@@ -35,14 +34,13 @@
   - `Conditional Rendering` of Components.  
 
 ### Screenshot
+![main](https://user-images.githubusercontent.com/83196262/142796763-543cef9b-a2d6-485d-96f4-bfb8c898e647.png)
 
-![main](https://user-images.githubusercontent.com/83196262/142795303-0fc6580a-4f0f-4e34-816e-1bb3c2be5077.png)
+![result](https://user-images.githubusercontent.com/83196262/142796770-bf8e25f2-e67f-4bcd-b73e-549c6177bd2b.png)
+
+![error](https://user-images.githubusercontent.com/83196262/142796780-d400771e-c411-4cdf-a494-1a112ea06534.png)
 
 
-![result](https://user-images.githubusercontent.com/83196262/142795317-e20b8177-53c9-4e22-a19e-7e45f1e38aca.png)
-
-
-![error](https://user-images.githubusercontent.com/83196262/142795339-6c405d5f-2ef1-41d0-9c70-a8be8f26faaf.png)
 
 
 
