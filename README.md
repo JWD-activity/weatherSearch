@@ -1,4 +1,4 @@
-# ISS tracker App
+# Weather App
 
 ## Description
 ### The challenge
